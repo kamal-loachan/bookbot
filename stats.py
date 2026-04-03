@@ -4,4 +4,5 @@ def num_words_in_text(text):
 
 def num_each_characters(text):
     list_text = text.split()
+    #Hi 
     
